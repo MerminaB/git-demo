@@ -1,2 +1,3 @@
 this is demo 1
-we are goimg to practice git
+
+we gonna do some practice
